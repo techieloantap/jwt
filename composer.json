@@ -3,7 +3,7 @@
     "license": "GPL-3.0-or-later",
     "type": "awesome-handler",
     "description": "Handler for JWT token creation using jwt-firebase in Awesome Enterprise",
-	"keywords": ["WordPress", "Low Code"," Awesome Enterprise","Shortcode","jwt_token"],
+	"keywords": ["WordPress", "Low Code"," Awesome Enterprise","Shortcode","JWT"],
 	"homepage": "https://getawesomestudio.com/",
 	"authors": [
 		{
